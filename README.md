@@ -84,12 +84,3 @@ Me chamo **Lorenzo Zanette Mattana**, tenho 17 anos e sou de **Caxias do Sul, Ri
     width="49%"
   />
 </p>
-
-<p align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mattanatecn&theme=tokyonight"
-    width="100%"
-  />
-
-</p>
